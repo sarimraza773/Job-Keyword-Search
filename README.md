@@ -38,7 +38,4 @@ Common Keywords: [java, algorithms, development]
 Missing Keywords: [structures, data, front, end, intern]
 ```
 
-## 🧩 Future Improvements
-- Weighted scoring for technical terms (e.g., Java > Python > HTML)
-- GUI interface using JavaFX
-- PDF input using Apache PDFBox
+
